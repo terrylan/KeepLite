@@ -1,0 +1,13 @@
+# Ignore sensitive files
+config.php
+
+# Ignore logs
+logs/
+
+# Ignore compiled PHP files
+*.log
+*.bak
+
+# Ignore other system files
+.DS_Store
+Thumbs.db
